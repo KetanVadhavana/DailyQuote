@@ -275,12 +275,9 @@ fun DailyQuoteCardView(
                             Text("Allow")
                         }
                     }
-
-
                 }
             }
         }
-
     }
 }
 
