@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailyQuote</string>
+    <string name="channel_name">Quote of the Day</string>
+    <string name="channel_description">Quote of the day description</string>
+
+    <string name="error_msg_no_network">Network connection issue</string>
+
+    <string name="home_tab_daily_quote">Daily Quote</string>
+    <string name="home_tab_all_quotes">All Quotes</string>
+</resources>
