@@ -27,8 +27,8 @@ This project is designed as a **learning-focused tutorial** for developers who w
 ## 🖼 Screenshots
 
 <p align="center">
-  <img src="screenshots/daily_quote.png" width="250" />
   <img src="screenshots/notification_permission.png" width="250" />  
+  <img src="screenshots/daily_quote.png" width="250" />
   <img src="screenshots/all_quotes.png" width="250" />
 </p>
 
