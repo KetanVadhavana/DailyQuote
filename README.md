@@ -18,7 +18,7 @@
 
 # 📖 DailyQuote – Kotlin Jetpack Compose Tutorial
 
-**DailyQuote** is a sample Android application built with **Jetpack Compose** that demonstrates **modern Android development practices** using clean architecture and real-world libraries.
+**DailyQuote** is a sample Android application built with **Jetpack Compose** that demonstrates **modern Android development practices** using clean code and real-world libraries.
 
 This project is designed as a **learning-focused tutorial** for developers who want to understand how to build **offline-first + online-paginated apps** using **Jetpack Compose** and **StateFlow**.
 
@@ -79,7 +79,7 @@ The app contains **two main screens**:
 
 ## 🔄 Architecture
 
-UI → ViewModel (StateFlow) → UseCases → Repository → Room / Retrofit
+UI → ViewModel (StateFlow) → Repository → Room / Retrofit
 
 ---
 
@@ -93,7 +93,11 @@ UI → ViewModel (StateFlow) → UseCases → Repository → Room / Retrofit
 
 ## 🖼 Screenshots
 
-_Screenshots will be added later_
+<p align="center">
+  <img src="screenshots/daily_quote.png" width="250" />
+  <img src="screenshots/all_quotes.png" width="250" />
+  <img src="screenshots/notification_permission.png" width="250" />
+</p>
 
 ---
 
