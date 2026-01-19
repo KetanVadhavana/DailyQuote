@@ -24,6 +24,16 @@ This project is designed as a **learning-focused tutorial** for developers who w
 
 ---
 
+## 🖼 Screenshots
+
+<p align="center">
+  <img src="screenshots/daily_quote.png" width="250" />
+  <img src="screenshots/notification_permission.png" width="250" />  
+  <img src="screenshots/all_quotes.png" width="250" />
+</p>
+
+---
+
 ## 🚀 What You’ll Learn From This Project
 
 This project covers **end-to-end app development concepts**, including:
@@ -88,16 +98,6 @@ UI → ViewModel (StateFlow) → Repository → Room / Retrofit
 - Request notification permission (Android 13+)
 - Handle permission in Jetpack Compose
 - Show local notification after background sync
-
----
-
-## 🖼 Screenshots
-
-<p align="center">
-  <img src="screenshots/daily_quote.png" width="250" />
-  <img src="screenshots/all_quotes.png" width="250" />
-  <img src="screenshots/notification_permission.png" width="250" />
-</p>
 
 ---
 
